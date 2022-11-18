@@ -22,9 +22,6 @@ body {
   padding: 10px 20px;
   /* Background blur stuff. */
   background-color: rgba(0, 0, 0, 0.024);
-  -webkit-backdrop-filter: blur(20px);
-  backdrop-filter: blur(20px);
-  overflow-x: auto;
 }
 
 .Navbar a {
