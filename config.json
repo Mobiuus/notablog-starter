@@ -1,6 +1,6 @@
 {
   "url": "https://www.notion.so/c3ec64785ea54854b5c7280d33d12f46?v=c9daece5c6ec40f3ad9a586bfe656831",
   "theme": "pure-ejs",
-  "previewBrowser": "/usr/bin/chromium",
+  "previewBrowser": "/usr/bin/firefox",
   "autoSlug": true
 }
