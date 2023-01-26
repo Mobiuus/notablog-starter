@@ -21,7 +21,7 @@ body {
   height: 50px;
   padding: 10px 20px;
   /* Background blur stuff. */
-  background-color: rgb(250,250,246);
+  background-color: RGBA(252, 187, 161, 1);
 }
 
 .Navbar a {
