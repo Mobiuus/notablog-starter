@@ -1,0 +1,36 @@
+/* source-sans-pro-regular - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Spectral Medium'), local('Spectral-Medium'),
+       url('../fonts/Spectral-Medium.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/Spectral-Medium.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* source-sans-pro-600 - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Spectral MediumItalic'), local('Spectral-MediumItalic'),
+       url('../fonts/Spectral-MediumItalic.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/Spectral-MediumItalic.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* source-sans-pro-600italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Spectral Italic'), local('Spectral-Italic'),
+       url('../fonts/Spectral-Italic.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/Spectral-Italic.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* source-sans-pro-italic - latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Spectral Regural'), local('Spectral-Regular'),
+       url('../fonts/Spectral-Regular.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/Spectral-Regular.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
