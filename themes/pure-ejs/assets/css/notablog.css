@@ -27,6 +27,7 @@ body {
 .Navbar a {
   color: inherit;
   text-decoration: none;
+  display: block;
 }
 
 .Navbar a:last-child > .Navbar__Btn {
