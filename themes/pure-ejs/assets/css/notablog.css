@@ -70,6 +70,16 @@ body {
   color: rgba(217,217,217, 0.4);
 }
 
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 8px;
+  background: linear-gradient(to right,rgb(8,81,156), rgb(107,174,214));
+  width: 20%;
+  z-index: 100;
+}
+
 /* Common */
 
 .Header,
